@@ -10,7 +10,7 @@
     </q><br><br>
     <strong>happy 18th</strong>
 <br>
-    <small>sorry for using ur photo with ur permission</small>
+    <small>sorry for using ur photo without ur permission</small>
   </div>
 </template>
 <style>
